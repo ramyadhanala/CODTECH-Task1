@@ -1,12 +1,12 @@
 **Name**:D Ramya
 **id**:CT08JDS196
-Domain: Java programming
-duration: May to june 2024
-Mentor name:sravani gouni
+**Domain**: Java programming
+**Duration**: May to june 2024
+**Mentor name**:sravani gouni
 
 Overview of the Project 
-This program will prompt the user to:
 
+This program will prompt the user to:
 Enter two numbers.
 Choose an operation: addition, subtraction, multiplication, or division.
 Based on the user's choice, the program will perform the corresponding arithmetic operation and display the result.
