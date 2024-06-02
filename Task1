@@ -20,9 +20,18 @@ public class SimpleCalculator {
      break;
      case "MUl":System.out.println("mutiplication of two numbers is :"+(n1*n2));
      break;
-     case "Div":System.out.println("Division of two numbers is :"+(n1/n2));
+     case "Div": if (n2 != 0) {
+             result = n1 / n2;
+         } else {
+             System.out.println("Error: Division by zero is not allowed.");
+             boolean validChoice = false;
+         }
+    	 System.out.println("Division of two numbers is :"+(n1/n2));
      break;
-
+     default:
+         System.out.println("Invalid choice. Please select a valid operation.");
+         boolean validChoice = false;
+         break;
      }
      sc.close();
 	}
