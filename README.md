@@ -1,9 +1,10 @@
-Name:D Ramya
-id:CT08JDS196
-domain: JAVA PROGRAMMING
-duration: 10TH MAY 2024 TO 10TH JUNE 2024
+**Name**:D Ramya
+**id**:CT08JDS196
+Domain: Java programming
+duration: May to june 2024
 Mentor name:sravani gouni
-description 
+
+Overview of the Project 
 This program will prompt the user to:
 
 Enter two numbers.
